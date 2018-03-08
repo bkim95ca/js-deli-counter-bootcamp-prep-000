@@ -1,3 +1,3 @@
-var katzDeli = [];
-function takeANumber();
+var katzDeli = []
+function takeANumber()
 takeANumber (katzDeliLine, "Ada")
