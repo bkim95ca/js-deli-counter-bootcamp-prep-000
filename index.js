@@ -11,3 +11,5 @@ else {
   return `Currently serving ${katzDeliLine.shift()}.`
 }
 }
+
+function currentLine(katzDeliLine) {}
