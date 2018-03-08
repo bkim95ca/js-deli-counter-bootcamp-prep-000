@@ -11,6 +11,6 @@ function nowServing(katzDeliLine) {
     return 'There is nobody waiting to be served'
   }
   else {
-    return `Currently serving number ${katzDeliLine.length} in line`
+    return `Currently serving number ${katzDeliLine} in line`
   }
 }
